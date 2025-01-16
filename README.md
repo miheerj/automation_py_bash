@@ -7,7 +7,7 @@ This repo contains a collection of Python and Bash scripts designed to automate 
 
 ## 🗂️ Repository Structure
 ```plaintext
-automation-scripts/
+automation_py_bash/
 ├── python/           # Python automation scripts
 ├── bash/             # Bash automation scripts
 ├── docs/             # Documentation and guides
