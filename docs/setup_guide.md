@@ -15,4 +15,4 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/miheerj/automation_py_bash.git
-   cd audit-releases
+   cd audit-releases-ado
